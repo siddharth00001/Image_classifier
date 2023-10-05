@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+numpy
+Pillow
+tensorflow==2.11.0
+keras==2.11.0
+matplotlib
+-e .
